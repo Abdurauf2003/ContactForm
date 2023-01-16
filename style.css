@@ -1,17 +1,17 @@
 ::-webkit-input-placeholder {
-  color: skyblue;
+  color: lawngreen;
 }
 
 :-ms-input-placeholder {
-  color: skyblue;
+  color: lawngreen;
 }
 
 ::-ms-input-placeholder {
-  color: skyblue;
+  color: lawngreen;
 }
 
 ::placeholder {
-  color: skyblue;
+  color: lawngreen;
 }
 
 .form {
@@ -49,10 +49,10 @@
   border: none;
   padding: 10px;
   border-radius: 10px;
-  border: 2px solid skyblue;
+  border: 2px solid lawngreen;
   -webkit-transition: 600ms;
   transition: 600ms;
-  color: skyblue;
+  color: lawngreen;
 }
 
 .form form #name:focus, .form form #email:focus, .form form #message:focus {
@@ -63,17 +63,19 @@
   position: relative;
   border: none;
   background: transparent;
-  color: skyblue;
+  color: lawngreen;
   padding: 5px;
   border-radius: 5px;
-  border: 2px solid skyblue;
+  border: 2px solid lawngreen;
   -webkit-transition: 600ms;
   transition: 600ms;
 }
 
 .form form #btn:hover {
   cursor: pointer;
-  -webkit-box-shadow: inset 0 0 10px skyblue, 0 0 10px skyblue;
-          box-shadow: inset 0 0 10px skyblue, 0 0 10px skyblue;
+  -webkit-box-shadow: inset 0 0 10px lawngreen,
+ 0 0 10px lawngreen;
+          box-shadow: inset 0 0 10px lawngreen,
+ 0 0 10px lawngreen;
 }
-/*# sourceMappingURL=style.css.map */
+/* Created by Abdurauf Egamov (HanSiBin) */
