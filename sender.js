@@ -31,5 +31,6 @@ var sender = function () {
     document.getElementById("name").value = "";
     document.getElementById("email").value = "";
     document.getElementById("message").value = "";
+    alert('Message sent, reply will be sent to your email!');
     return false;
 };
